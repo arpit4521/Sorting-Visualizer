@@ -1,6 +1,6 @@
-Sorting Algorithm Visualizer
+Sorting  Visualizer
 
-Welcome to the Sorting Algorithm Visualizer! This web application is designed to provide an interactive and visual representation of various sorting algorithms. Users can observe the step-by-step process of sorting and gain insights into the time complexities of each algorithm. The implemented algorithms include Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort.
+Welcome to the Sorting Visualizer! This web application is designed to provide an interactive and visual representation of various sorting algorithms. Users can observe the step-by-step process of sorting and gain insights into the time complexities of each algorithm. The implemented algorithms include Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort.
 
 Features
 Algorithm Visualization
