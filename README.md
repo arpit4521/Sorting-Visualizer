@@ -52,3 +52,6 @@ Observe the total run time for the selected algorithm and input size.
 
 Contributing
 Contributions are welcome! Feel free to open issues for bug reports or suggestions. If you'd like to contribute code, please submit a pull request.
+
+Contact
+All my social media handles and email provided in the website to get connected to me
